@@ -47,6 +47,9 @@
     font-size: 18px;
     font-weight: 500;
     cursor: pointer;
+    text-decoration: none;
+    list-style: none;
+    color: rgb(32, 32, 32);
 }
 
 .lists:hover{
@@ -57,6 +60,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
+    color: rgb(32, 32, 32);
 }
 
 .profile img{

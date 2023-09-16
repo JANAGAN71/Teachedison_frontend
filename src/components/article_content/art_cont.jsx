@@ -14,7 +14,7 @@ export default function art_cont() {
         <div className="artcont">
           <span className="art_title">6G TECHNOLOGY</span>
           <br />
-          <span className="art_desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. A commodi quos, incidunt explicabo perferendis libero totam, distinctio modi soluta quisquam illo saepe cumque maxime, reprehenderit vero magnam officiis dolorum nulla aut eaque. Reprehenderit repellendus voluptatem suscipit ad dolor ex omnis deserunt quasi, distinctio odio ut perspiciatis assumenda, id harum ipsam, voluptatibus velit natus beatae aliquid! Eligendi quasi totam accusantium quibusdam.</span>
+          <span className="art_desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat repudiandae ducimus debitis accusamus aliquam aliquid architecto tempore voluptate adipisci cum minus perferendis, veniam reiciendis dicta iusto quibusdam at temporibus vitae!</span>
           <br />
           <span className="postTime">1 hour ago</span>
         </div>
@@ -25,9 +25,6 @@ export default function art_cont() {
         </div>
       </div>
     </div>
-
-
-
     <div className="content">
       <div className="information">
         <div className="categories">
@@ -37,7 +34,7 @@ export default function art_cont() {
         <div className="artcont">
           <span className="art_title">6G TECHNOLOGY</span>
           <br />
-          <span className="art_desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam, doloremque rerum, consequuntur voluptate deserunt nisi voluptates explicabo optio quisquam accusamus dolores neque, consequatur suscipit? Voluptates eius magni quam asperiores perferendis, possimus facilis maxime molestias cumque nulla. Laudantium fugiat, odit officiis, sint, iure a reiciendis accusantium perferendis quam quae atque deserunt..</span>
+          <span className="art_desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat repudiandae ducimus debitis accusamus aliquam aliquid architecto tempore voluptate adipisci cum minus perferendis, veniam reiciendis dicta iusto quibusdam at temporibus vitae!</span>
           <br />
           <span className="postTime">1 hour ago</span>
         </div>
@@ -48,7 +45,6 @@ export default function art_cont() {
         </div>
       </div>
       <img src={content_img} alt="Image" />
-
     </div>
     </>
   )

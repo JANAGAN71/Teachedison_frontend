@@ -1,7 +1,31 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
 .articles{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    width: 100%;
     /* border:1px solid red; */
+    text-decoration: none;
+    list-style: none;
+}
+
+.lists{
+    list-style: none;
+    border: none;
+}
+.lists:hover{
+    border: none;
+    list-style: none;
+}
+
+.articles a{
+    text-decoration: none;
+    list-style: none;
 }
